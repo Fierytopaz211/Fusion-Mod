@@ -1,0 +1,15 @@
+[
+{
+  "modid": "fusion_mod",
+  "name": "Rider Game's Fusion Mod",
+  "description": "Example placeholder description.",
+  "version": "Alpha 0.0.1",
+  "mcversion": "1.9.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fierytopaz211"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
