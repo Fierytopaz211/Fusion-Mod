@@ -9,8 +9,11 @@ public class Reference {
 	public static final String CLIENT_PROXY_CLASS = "com.ridergames.fusion.proxy.ClientProxy";
 	public static final String SERVER_PROXY_CLASS = "com.ridergames.fusion.proxy.ServerProxy";
 	
+	public static final String ACCEPTED_VERSION = "[1.9.4]";
+	
 	public static enum FusionItems{
-		INFUSED_ROD("infused_rod","ItemInfusedRod");
+		INFUSED_ROD("infused_rod","ItemInfusedRod"),
+		MTN("mtn","ItemMTN");
 		
 		private String unlocalizedName, registryName;
 		
